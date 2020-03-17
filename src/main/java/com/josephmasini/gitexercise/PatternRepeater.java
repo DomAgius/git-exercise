@@ -1,6 +1,6 @@
 package com.josephmasini.gitexercise;
 
-public class PatternRepeater {
+ublic class PatternRepeater {
 
     /* Implement method to sort an array of integers */
 
