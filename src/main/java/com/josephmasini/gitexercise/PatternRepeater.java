@@ -6,4 +6,3 @@ public class PatternRepeater {
 
     /* Implement method to sort an array of strings */
 
-}
